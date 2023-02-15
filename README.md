@@ -18,7 +18,7 @@ References for 2023 kumamoto university research plan, KI-SEOK LEE
 
 [9] Hyo-Sang Do et al. eBioMedicine  VOLUME 52, 102633 (2020) https://doi.org/10.1016/j.ebiom.2020.102633
 
-[10] Paula Rozenfeld et al. Mol. Genet. Metab. Volume 122, Issue 3 2017 https://doi.org/10.1016/j.ymgme.2017.09.004
+[10] Paula Rozenfeld et al. Mol. Genet. Metab. Volume 122, Issue 3 (2017) https://doi.org/10.1016/j.ymgme.2017.09.004
 
 [11] Marc Chévrier et al. Autophagy 6(5):589-99. (2010) https://doi.org/10.4161/auto.6.5.11943
 
